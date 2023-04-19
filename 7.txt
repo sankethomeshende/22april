@@ -1,2 +1,4 @@
 ghsagdhsgahg
 second line in 7.txt
+third line in 7.txt
+4th line
